@@ -1,0 +1,12 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}
+
+header {
+    height: 20vh;
+}
+
+main {
+    height: 80vh;
+}
